@@ -34,7 +34,7 @@ test:
 
 about:
   home: https://github.com/openclimatedata/pymagicc
-  license: AGPL-3.0 AND CC-BY-NC-SA-3.0
+  license: AGPL-3.0-or-later AND CC-BY-NC-SA-3.0
   license_family: AGPL
   license_file: 
       - LICENSE
